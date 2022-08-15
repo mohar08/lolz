@@ -1,3 +1,2 @@
-qdqfq wfwfwf wfwef
-fwfwfwe wffwf wfwefwfdwe 
-wefwfwf wffwfe weffwf
+let a=1;
+console.log(a);
